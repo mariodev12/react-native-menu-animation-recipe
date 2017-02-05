@@ -2,7 +2,7 @@
 
 Menu animation with Animated component.
 
-![alt tag](https://media.giphy.com/media/X2mF3GHUeRtYc/giphy.gif)
+![alt tag](https://media.giphy.com/media/SPZffgpj2M0z6/giphy.gif)
 
 ## Getting Started
 

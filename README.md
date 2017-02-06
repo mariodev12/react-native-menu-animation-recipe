@@ -8,7 +8,7 @@ Menu animation with Animated component.
 
  * Clone this repo
  * Npm install
- * eact-native run-ios
+ * react-native run-ios
 
 ### Prerequisites
 
